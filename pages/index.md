@@ -6,4 +6,4 @@ featured: "dcat-us"
 button:
   text: Learn more about this repository
   href: /about/about-this-repository/
----
+---Control
